@@ -9,14 +9,14 @@
         <video id="my_video_1" class="video-js vjs-default-skin" width="640px" height="267px"
             controls preload="none" poster="static\images\xuanchuanTitle.png"
             data-setup='{ "aspectRatio":"640:267", "playbackRates": [1, 1.5, 2] }'>
-          <source src="static/video/xuanchuan.mp4" type='video/mp4' />
+          <source src="static/video/429.mp4" type='video/mp4' />
         </video>
       </el-col>
       <el-col :span="6" class="instructions">
         <video id="my_video_2" class="video-js vjs-default-skin" width="640px" height="267px"
             controls preload="none" poster="static\images\videoNews.png"
             data-setup='{ "aspectRatio":"640:267", "playbackRates": [1, 1.5, 2] }'>
-          <source src="static/video/shenzhen.mp4" type='video/mp4' />
+          <source src="static/video/429.mp4" type='video/mp4' />
         </video>
       </el-col>
       <el-col :span="6"><div><br></div></el-col>

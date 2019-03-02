@@ -12,7 +12,7 @@
           <video id="my_video_1" class="" width="100%" height="100%"
                 controls preload="none" poster="static\images\xuanchuanTitle.png"
                 data-setup='{ "aspectRatio":"479:200", "playbackRates": [1, 1.5, 2] }'>
-            <source src="static/video/xuanchuan.mp4" type='video/mp4' />
+            <source src="static/video/429.mp4" type='video/mp4' />
             </video>
             <h4 class="center">北京安数云公司宣传片</h4>
           </div>
@@ -23,7 +23,7 @@
             <video id="my_video_2" class="video-js vjs-default-skin" width="100%" height="100%"
                 controls preload="none" poster="static\images\videoNews.png"
                 data-setup='{ "aspectRatio":"640:267", "playbackRates": [1, 1.5, 2] }'>
-            <source src="static/video/shenzhen.mp4" type='video/mp4' />
+            <source src="static/video/429.mp4" type='video/mp4' />
             </video>
             <h4 class="center">北京安数云公司新闻采访</h4>
           </div>
