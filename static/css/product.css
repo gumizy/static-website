@@ -1,0 +1,127 @@
+.tree{width:220px;float:left;}
+.tree h3{background:#D1D1D1;font-size:14px;height:45px;line-height:45px;margin:0;padding:0 0 0 20px;}
+.tree ul{background:#F9F9F9;border:1px #D1D1D1 solid;margin:10px 0 20px 0;padding:10px;}
+.tree li{cursor:pointer;color:#5B5B5B;line-height:25px;padding:0 0 0 20px;background:url('../images/plist.png') no-repeat 0 center;}
+.tree li:hover{text-decoration:underline;}
+.tree li.selected{color:#2F8FFD;}
+
+.productBox{float:left;margin-left:10px;width:770px;}
+.productBox .title1{font-size:18px;color:#2F8FFD;border-left:5px #008AFF solid;padding-left:10px;}
+.productBox .title2{font-size:22px;font-weight:bold;color:#BB3029;padding-left:10px;}
+.productBox h4.title3{color:#BB3029;font-size:18px;border-left:5px #BB3029 solid;height:20px;line-height:20px;margin:10px 0;padding:0 0 0 25px;}
+.productBox .line{background:url('../images/list1.png') no-repeat right center;margin:10px 0;padding:4px 12px 4px 0;}
+.productBox .line div{border-top:1px #D1D1D1 solid;}
+.productBox h4.title{color:#2F8FFD;font-size:12px;height:16px;line-height:16px;margin:10px 0;padding:0 0 0 25px;background:url('../images/picon.png') no-repeat 0 center;}
+.productBox h5.title3{color:#2F8FFD;font-size:14px;height:16px;line-height:16px;margin:10px 0;padding:0 0 0 25px;background:url('../images/picon.png') no-repeat 0 center;}
+.productBox h4.title.icon1{background-position:0 0;}
+.productBox h5.title3.icon1{background-position:0 0;}
+.productBox h4.title.icon2{background-position:0 -16px;}
+.productBox h4.title.icon3{background-position:0 -32px;}
+.productBox h4.title.icon4{background-position:0 -48px;}
+.productBox h4.title.icon5{background-position:0 -64px;}
+.productBox h4.title.icon6{background-position:0 -80px;}
+.productBox h4.title.icon7{background-position:0 -96px;}
+.productBox h4.title.icon8{background-position:0 -112px;}
+.productBox h4.title.icon9{background-position:0 -128px;}
+.productBox h4.title.icon10{background-position:0 -144px;}
+.productBox h4.title.icon11{background-position:0 -160px;}
+.productBox h4.title.icon12{background-position:0 -176px;}
+.productBox h4.title.icon13{background-position:0 -192px;}
+.productBox h4.title.icon14{background-position:0 -208px;}
+.productBox h4.title.icon15{background-position:0 -224px;}
+.productBox h4.title.icon16{background-position:0 -240px;}
+.productBox h4.title.icon17{background-position:0 -256px;}
+.productBox h4.title.icon18{background-position:0 -272px;}
+.productBox h4.title.icon19{background-position:0 -288px;}
+.productBox h4.title.icon20{background-position:0 -304px;}
+.productBox h4.title.icon21{background-position:0 -320px;}
+.productBox h4.title.icon22{background-position:0 -336px;}
+.productBox h4.title.icon23{background-position:0 -352px;}
+.productBox h4.title.icon24{background-position:0 -368px;}
+.productBox h4.title.icon25{background-position:0 -384px;}
+.productBox h4.title.icon26{background-position:0 -400px;}
+.productBox h4.title.icon27{background-position:0 -416px;}
+.productBox h4.title.icon28{background-position:0 -432px;}
+.productBox h4.title.icon29{background-position:0 -448px;}
+.productBox h4.title.icon30{background-position:0 -464px;}
+.productBox h4.title.icon31{background-position:0 -480px;}
+.productBox h4.title.icon32{background-position:0 -496px;}
+.productBox h4.title.icon33{background-position:0 -544px;}
+
+.productBox h5.title3.icon1{background-position:0 0;}
+.productBox h5.title3.icon2{background-position:0 -16px;}
+.productBox h5.title3.icon3{background-position:0 -32px;}
+.productBox h5.title3.icon4{background-position:0 -48px;}
+.productBox h5.title3.icon5{background-position:0 -64px;}
+.productBox h5.title3.icon20{background-position:0 -304px;}
+.productBox h5.title{color:#2F8FFD;font-size:12px;height:16px;line-height:16px;margin:10px 0;padding:0 0 0 25px;background:url('../images/list3.png') no-repeat 0 center;}
+.productBox ul{list-style-type:disc;margin-left:22px;}
+.productBox ul ul{color:#666;}
+.productBox li{line-height:23px;}
+.productBox img{display:block;margin:10px auto;}
+.productBox p{text-indent:2em;font-size:16px;font-family:"微软雅黑";line-height:32px;margin:0; padding:0}
+
+.newsDiv{float:left;margin-left:10px;width:770px;}
+.newsDiv .title1{font-size:18px;color:#2F8FFD;border-left:5px #008AFF solid;padding-left:10px;}
+.newsDiv .title2{font-size:22px;font-weight:bold;color:#BB3029;padding-left:10px;}
+.newsDiv .line{background:url('../images/list1.png') no-repeat right center;margin:10px 0;padding:4px 12px 4px 0;}
+.newsDiv .line div{border-top:1px #D1D1D1 solid;}
+.newsDiv h4.title{color:#2F8FFD;font-size:12px;height:16px;line-height:16px;margin:10px 0;padding:0 0 0 25px;background:url('../images/picon.png') no-repeat 0 center;}
+.newsDiv h4.title3{color:#BB3029;font-size:18px;border-left:5px #BB3029 solid;height:20px;line-height:20px;margin:10px 0;padding:0 0 0 25px;}
+.newsDiv h5.title3{color:#2F8FFD;font-size:12px;height:16px;line-height:16px;margin:10px 0;padding:0 0 0 25px;background:url('../images/picon.png') no-repeat 0 center;}
+.newsDiv h5.title3.icon20{background-position:0 -304px;}
+.newsDiv h4.title.icon1{background-position:0 0;}
+.newsDiv h4.title.icon2{background-position:0 -16px;}
+.newsDiv h4.title.icon3{background-position:0 -32px;}
+.newsDiv h4.title.icon4{background-position:0 -48px;}
+.newsDiv h4.title.icon5{background-position:0 -64px;}
+.newsDiv h4.title.icon6{background-position:0 -80px;}
+.newsDiv h4.title.icon7{background-position:0 -96px;}
+.newsDiv h4.title.icon8{background-position:0 -112px;}
+.newsDiv h4.title.icon9{background-position:0 -128px;}
+.newsDiv h4.title.icon10{background-position:0 -144px;}
+.newsDiv h4.title.icon11{background-position:0 -160px;}
+.newsDiv h4.title.icon12{background-position:0 -176px;}
+.newsDiv h4.title.icon13{background-position:0 -192px;}
+.newsDiv h4.title.icon14{background-position:0 -208px;}
+.newsDiv h4.title.icon15{background-position:0 -224px;}
+.newsDiv h4.title.icon16{background-position:0 -240px;}
+.newsDiv h4.title.icon17{background-position:0 -256px;}
+.newsDiv h4.title.icon18{background-position:0 -272px;}
+.newsDiv h4.title.icon19{background-position:0 -288px;}
+.newsDiv h4.title.icon20{background-position:0 -304px;}
+.newsDiv h4.title.icon21{background-position:0 -320px;}
+.newsDiv h4.title.icon22{background-position:0 -336px;}
+.newsDiv h4.title.icon23{background-position:0 -352px;}
+.newsDiv h4.title.icon24{background-position:0 -368px;}
+.newsDiv h4.title.icon25{background-position:0 -384px;}
+.newsDiv h4.title.icon26{background-position:0 -400px;}
+.newsDiv h4.title.icon27{background-position:0 -416px;}
+.newsDiv h4.title.icon28{background-position:0 -432px;}
+.newsDiv h4.title.icon29{background-position:0 -448px;}
+.newsDiv h4.title.icon30{background-position:0 -464px;}
+.newsDiv h4.title.icon31{background-position:0 -480px;}
+.newsDiv h4.title.icon32{background-position:0 -496px;}
+.newsDiv h4.title.icon33{background-position:0 -544px;}
+.newsDiv h5.title{color:#2F8FFD;font-size:12px;height:16px;line-height:16px;margin:10px 0;padding:0 0 0 25px;background:url('../images/list3.png') no-repeat 0 center;}
+.newsDiv ul{list-style-type:disc;margin-left:22px;}
+.newsDiv ul ul{color:#666;}
+.newsDiv li{line-height:23px;}
+.newsDiv img{display:block;margin:10px auto;}
+.newsDiv p{text-indent:2em;font-size:16px;font-family:"微软雅黑";line-height:32px;margin:0; padding:0}
+
+.tabs .hd{overflow:hidden;}
+.tabs .hd-item{float:left;cursor:pointer;background:#D1D1D1;padding:0 12px;height:40px;line-height:40px;margin-right:5px;}
+.tabs .hd-item.selected{cursor:default;background:#2F8FFD;color:white;}
+.tabs .body{border:1px #D1D1D1 solid;padding:10px 15px;}
+.tabs .body .item{min-height:200px;display:none;}
+
+.leftContainer{width:1000px;margin:0 auto;padding:20px 0;overflow:hidden;position: relative;top:500px;}
+.leftTree{width:220px;float:left;}
+.leftTree h3{background:#D1D1D1;font-size:14px;height:45px;line-height:45px;margin:0;padding:0 0 0 20px;}
+.leftTree ul{background:#F9F9F9;border:1px #D1D1D1 solid;margin:10px 0 20px 0;padding:10px;}
+.leftTree li{cursor:pointer;color:#5B5B5B;line-height:25px;padding:0 0 0 20px;background-image:url('/static/images/plist.png') no-repeat 0 center;}
+.leftTree li:hover{text-decoration:underline;}
+.leftTree li.selected{color:#2F8FFD;}
+
+.newsDiv{width:1000px;margin:0 auto;padding:20px 0;overflow:hidden;}

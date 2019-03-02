@@ -1,0 +1,37 @@
+body{height:100%;color:#333;margin:0;padding:0;font:14px/1.6 "Helvetica Neue",Helvetica,arial,sans-serif,宋体;background:white;}
+table{table-layout:fixed;border-collapse:collapse;font-size:14px;}
+form{margin:0;padding:0;}
+p{padding:0;margin:0;text-indent:25px;line-height:35px;}
+ul,ol,dl,dt,dd{list-style:none;margin:0;padding:0;}
+a:link,a:visited{color:#0070EE;text-decoration:none;}
+a:active,a:hover{text-decoration:underline;}
+input,select,textarea{outline:none;font:12px/1.6 "Helvetica Neue",Helvetica,arial,sans-serif,宋体;}
+.clear{clear:both;}
+
+.hbk{position:absolute;left:50%;right:0;top:0;margin-left:500px;height:100px;background:#F7F8F8;}
+.header{height:100px;}
+.content{background:url("../images/logo.png") no-repeat left center white;margin:0 auto;width:1000px;overflow:hidden;}
+
+.menu{overflow:hidden;float:right;background:url('../images/header-bk.png') no-repeat 0 0 #F7F8F8;padding-left:95px;}
+.menu li.item{float:left;padding:0 23px;margin-left:2px;}
+.menu li.item.selected,.menu li.item:hover{background:#E8E8E8;}
+.menu li.item.selected .item-a,.menu li.item:hover .item-a{color:#2F8FFD;}
+.menu li.item .item-a{color:#030303;font-size:16px;width:100%;height:100px;line-height:100px;display:block;}
+.submenu{position:absolute;margin-left:-370px;min-width:160px;display:none;padding:10px;z-index:2;background:rgba(232, 232, 232,0.8);}
+.submenu td{vertical-align:top;}
+.submenu h3{font-size:14px;margin:0;padding:0;color:#2F8FFD;}
+.submenu ul{margin:10px 20px 0 0;}
+.submenu li{line-height:25px;padding-left:20px;background:url('../images/list.png') no-repeat 5px center;}
+.submenu a{color:#030303;}
+
+.banner{height:300px;position:relative;}
+.banner .left{position:absolute;left:0;top:0;bottom:0;right:50%;background:#042B78;}
+.banner .right{position:absolute;top:0;right:0;bottom:0;left:50%;background:#0E42AA;}
+.banner .slideBox{width:1000px;margin:0 auto;}
+
+.container{width:1000px;margin:0 auto;padding:20px 0;overflow:hidden;}
+
+.footer{background:#F2F2F2;padding:5px 0;text-align:center;font-size:12px;color:#666;}
+.footer div{height:20px;line-height:20px;}
+.footer div img{margin-right:5px;}
+.footer div *{vertical-align:middle;}
